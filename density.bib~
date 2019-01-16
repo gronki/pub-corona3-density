@@ -1,0 +1,73 @@
+@ARTICLE{1977-Liang,
+   author = {{Liang}, E.~P.~T. and {Price}, R.~H.},
+    title = "{Accretion disk coronae and Cygnus X-1}",
+  journal = {\apj},
+ keywords = {Binary Stars, Stellar Atmospheres, Stellar Mass Accretion, Stellar Winds, X Ray Stars, Energy Levels, Solar Corona, Stellar Mass Ejection, Stellar Models, Stellar Radiation},
+     year = 1977,
+    month = nov,
+   volume = 218,
+    pages = {247-252},
+      doi = {10.1086/155677},
+   adsurl = {http://adsabs.harvard.edu/abs/1977ApJ...218..247L},
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{1978-Paczynski,
+   author = {{Paczynski}, B.},
+    title = "{A model of selfgravitating accretion disk with a hot corona}",
+  journal = {\actaa},
+ keywords = {Black Holes (Astronomy), Disks (Shapes), Galactic Structure, Gravitational Effects, High Temperature Plasmas, Active Galactic Nuclei, Astronomical Models, Gamma Rays, Halos, Luminous Intensity, X Rays},
+     year = 1978,
+   volume = 28,
+    pages = {241-251},
+   adsurl = {http://adsabs.harvard.edu/abs/1978AcA....28..241P},
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+
+@ARTICLE{1990-Pounds,
+   author = {{Pounds}, K.~A. and {Nandra}, K. and {Stewart}, G.~C. and {George}, I.~M. and 
+	{Fabian}, A.~C.},
+    title = "{X-ray reflection from cold matter in the nuclei of active galaxies}",
+  journal = {\nat},
+ keywords = {Active Galactic Nuclei, Cosmic X Rays, Dark Matter, K Lines, X Ray Sources, Fluorescence, Photoionization, Seyfert Galaxies},
+     year = 1990,
+    month = mar,
+   volume = 344,
+    pages = {132},
+      doi = {10.1038/344132a0},
+   adsurl = {http://adsabs.harvard.edu/abs/1990Natur.344..132P},
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{1997-Reynolds,
+   author = {{Reynolds}, C.~S.},
+    title = "{An X-ray spectral study of 24 type 1 active galactic nuclei}",
+  journal = {\mnras},
+   eprint = {astro-ph/9610127},
+ keywords = {ACCRETION, ACCRETION DISCS, PLASMAS, GALAXIES: ACTIVE, GALAXIES: SEYFERT, X-RAYS: GALAXIES},
+     year = 1997,
+    month = apr,
+   volume = 286,
+    pages = {513-537},
+      doi = {10.1093/mnras/286.3.513},
+   adsurl = {http://adsabs.harvard.edu/abs/1997MNRAS.286..513R},
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{1999-Crenshaw,
+   author = {{Crenshaw}, D.~M. and {Kraemer}, S.~B. and {Boggess}, A. and 
+	{Maran}, S.~P. and {Mushotzky}, R.~F. and {Wu}, C.-C.},
+    title = "{Intrinsic Absorption Lines in Seyfert 1 Galaxies. I. Ultraviolet Spectra from the Hubble Space Telescope}",
+  journal = {\apj},
+   eprint = {astro-ph/9812265},
+ keywords = {GALAXIES: SEYFERT, LINE: IDENTIFICATION, ULTRAVIOLET: GALAXIES, Galaxies: Seyfert, Line: Identification, Ultraviolet: Galaxies},
+     year = 1999,
+    month = may,
+   volume = 516,
+    pages = {750-768},
+      doi = {10.1086/307144},
+   adsurl = {http://adsabs.harvard.edu/abs/1999ApJ...516..750C},
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
